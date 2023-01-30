@@ -1,0 +1,425 @@
+body
+{
+	background-color: #1F1F1F;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	color: #FFFFFF;
+	
+}
+a:link
+{
+	
+	color: none;
+}
+
+#container
+{
+	
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+
+.gora
+{
+	
+	width: 100%;
+	height: 100px;
+	margin-top: 20px;
+}
+
+.gora:hover
+{
+	cursor: default;
+
+}
+
+
+#logo
+{
+	width: 50%;
+	
+	font-size: 50px;
+	float: left;
+	
+	margin-left: 20px;
+	
+}
+
+
+#kontakt
+{
+	
+	float: right;
+	margin-right: 20px;
+	font-size: 30px;
+	text-align: right;
+	
+}
+
+.srodek
+{
+	
+	width: 1000px;
+	height: 540px;
+	margin-top: 40px;
+	
+}
+
+.srodek:hover
+{
+	
+	cursor: pointer;
+
+}
+
+
+
+#lewygorny
+{
+	
+	width: 470px;
+	height: 250px;
+
+	float: left;
+	margin-left: 20px;
+	
+}
+
+
+#lewygorny:hover
+{
+	transition: transform 250ms ease-in;
+	transform: scale(1.05);
+	cursor: pointer;
+	
+	
+}
+
+
+
+#prawygorny
+{
+	
+	width: 470px;
+	height: 250px;
+
+	float: right;
+	margin-right: 20px;
+	
+}
+
+
+#prawygorny:hover
+{
+	
+	transition: transform 250ms ease-in;
+	transform: scale(1.05);
+	cursor: pointer;
+}
+
+#lewydolny
+{
+	
+	width: 470px;
+	height: 250px;
+
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#lewydolny:hover
+{
+	transition: transform 250ms ease-in;
+	transform: scale(1.05);
+	cursor: pointer;
+	
+	
+}
+
+
+#prawydolny
+{
+	
+	width: 470px;
+	height: 250px;
+	
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+#prawydolny:hover
+{
+	transition: transform 250ms ease-in;
+	transform: scale(1.05);
+	cursor: pointer;
+	
+	
+}
+
+
+
+#dol
+{
+	
+
+	height: 150px;
+	width: 960px;
+	margin-left: 20px;
+}
+
+
+#dol:hover
+{
+	transition: transform 250ms ease-in;
+	transform: scale(1.03);
+	cursor: pointer;
+	
+	
+}
+
+
+
+
+#menu 
+{
+	height: 50px;
+	margin-top: 40px;
+	background-color: #141414
+
+}
+
+
+.napisymenu
+{
+	float: left;
+	padding: 10px;
+	font-size: 15px;
+	margin-top: 7px
+}
+
+
+
+.napisymenu:hover
+{
+	
+	transform: scale(1.1);
+	transition: transform 250ms ease-in;
+	cursor: pointer;
+	
+	
+}
+
+
+.napisymenu a
+{
+	
+	text-decoration: none;
+	color: #FFFFFF
+	
+	
+}
+
+#boxy
+{
+	width: 1000px;
+	height: 500px;
+	
+	margin-top: 50px;
+}
+
+#lewybox
+{
+	width: 200px;
+	height: 500px;
+	background-color: #141414;
+	
+	float: left;
+
+	margin-left: 100px;
+
+}
+
+#zdjecielewybox
+{
+	width: 200px;
+	height: 150px;
+	background-color: #FFDC00;
+
+}
+
+#napislewybox
+{
+	text-align: center;
+	padding: 5px;
+
+
+}
+
+#lewybox:hover
+{
+	
+	transform: scale(1.05);
+	transition: transform 250ms ease-in;
+	
+}
+
+#srodkowybox
+{
+	width: 200px;
+	height: 500px;
+	background-color: #141414;
+	
+	float: left;
+
+	margin-left: 100px;
+
+}
+
+#zdjeciesrodkowybox
+{
+	width: 200px;
+	height: 150px;
+	background-color: #FFDC00;
+
+}
+
+#napissrodkowybox
+{
+	text-align: center;
+	padding: 5px;
+
+	
+}
+
+#srodkowybox:hover
+{
+	
+	transform: scale(1.05);
+	transition: transform 250ms ease-in;
+	
+}
+
+
+#prawybox
+{
+	width: 200px;
+	height: 500px;
+	background-color: #141414;
+	
+	float: left;
+
+	margin-left: 100px;
+
+}
+
+#zdjecieprawybox
+{
+	width: 200px;
+	height: 150px;
+	background-color: #FFDC00;
+
+}
+
+#napisprawybox
+{
+	text-align: center;
+	padding: 5px;
+
+
+}
+
+#prawybox:hover
+{
+	
+	transform: scale(1.05);
+	transition: transform 250ms ease-in;
+	
+}
+
+#opisy
+{
+	width: 1000px;
+	height: auto;
+
+
+	margin-top: 100px;
+
+
+}
+
+.tytul
+{
+	margin-bottom: 30px;
+	font-size: 40px;
+	font-weight: bold;
+
+
+}
+
+.opisofirmie
+{
+	margin-bottom: 50px;
+
+
+}
+
+.zdjecia
+{
+	width: 1000px;
+	height: auto;
+
+	margin-top: 25px;
+}
+
+.zdj
+{
+	width: 300px;
+	height: 200px;
+
+	float: left;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: aqua;
+	
+}
+
+.zdj:hover
+{
+	transform: scale(2.5);
+	transition: transform 500ms ease-in-out;
+
+
+}
+
+#footer
+{
+	width: 1000px;
+	height: 100px;
+	float: left;
+	margin-top: 20px;
+
+}
+
+#facebook
+{
+	width: 50px;
+	height: 50px;
+
+	float: left;
+
+}
+
+#napisfooter
+{
+	text-align: right;
+	float: right;
+
+
+
+}
